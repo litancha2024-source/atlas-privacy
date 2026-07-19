@@ -20,7 +20,7 @@ Then visit `http://localhost:8080`.
 
 ## Publish with GitHub Pages
 
-1. Create or open the GitHub repository `litancha2024/atlas-privacy`.
+1. Create or open the GitHub repository `litancha2024-source/atlas-privacy`.
 2. Push this project to the repository's `main` branch.
 3. Open the repository on GitHub.
 4. Select **Settings → Pages**.
@@ -31,7 +31,7 @@ Then visit `http://localhost:8080`.
 The published privacy policy URL will be:
 
 ```text
-https://litancha2024.github.io/atlas-privacy/
+https://litancha2024-source.github.io/atlas-privacy/
 ```
 
 ## Push Commands
